@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "swarm_version": "4e5733b82d3407a8b0a6d645efa68534053d98e2",
+  "swarm_version": "621862020f5a4816e27072f7c84879eb3704b0ad",
   "files": {
     ".claude/commands/swarm-implement.md": "003c9aec14360ce63b060957819fa4c917b90c7f454b0866e741e807b3c70492",
     ".claude/commands/swarm-onboard.md": "40c7226710150fb9b1fd2ebe465cd187159674b8d51241aea54d8ec2470ed538",
@@ -13,7 +13,8 @@
     ".github/ISSUE_TEMPLATE/swarm-feature.yml": "cf6f1d5848b3242e508e83fda81214e29fb045d2c91f496dcc19121031aa4bfb",
     ".github/ISSUE_TEMPLATE/swarm-refactor.yml": "58a0f915d6aa13d37dc3c943fb7f9f01c6ace686468aed5e8817de96d0d47d45",
     ".github/ISSUE_TEMPLATE/swarm-workunit.yml": "8c6bb159a2250f6d7554c2f6d3c91915d221576e698a1f6a00c360bbacfce891",
-    ".github/workflows/swarm-fork-coordinator.yml": "45fb9f28ee2c3b5fa1e5a06bdefd33d2ad2a7193ac09754eef3a3cef8050b10e",
+    ".github/workflows/swarm-fork-coordinator.yml": "e3ec68a2dcff92d300ca55329e1e831d5bd34f3b3678e9455ea2ddf679381dcf",
+    ".github/workflows/swarm-validate.yml": "374bf98bf4ffebeef206cdeac2a124554be84c712b1ceb049c378d0407a8c03f",
     ".opencode/commands/swarm-implement.md": "003c9aec14360ce63b060957819fa4c917b90c7f454b0866e741e807b3c70492",
     ".opencode/commands/swarm-onboard.md": "40c7226710150fb9b1fd2ebe465cd187159674b8d51241aea54d8ec2470ed538",
     ".opencode/commands/swarm-plan.md": "76e8267fdbe53f8d77514a474ba98ae4aa03525964de84011716ee30ec352719",
